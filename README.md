@@ -1,4 +1,4 @@
-* :page_with_curl: WebSite **[Recipe](recipesappjosu.netlify.app)** :v:
+* :page_with_curl: WebSite **[Recipe](https://recipesappjosu.netlify.app)** :v:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
